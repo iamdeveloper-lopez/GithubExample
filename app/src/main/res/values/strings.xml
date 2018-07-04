@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github Example</string>
+    <string name="search">Search</string>
+    <string name="mvp">MVP</string>
+    <string name="mvvm">MVVM</string>
+    <string name="github_username">Github Username</string>
+    <string name="go">Go</string>
+</resources>
