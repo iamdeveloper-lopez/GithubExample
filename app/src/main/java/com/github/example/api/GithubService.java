@@ -11,6 +11,8 @@ import retrofit2.http.Path;
 
 public interface GithubService {
 
+    String BASE_URL = "https://api.github.com/";
+
     @GET("users/{username}")
     Observable<User> getGithubUser(@Path("username") String username);
 
